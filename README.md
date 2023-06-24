@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khushal49
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning Msc in Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Facebook @KHUSHAL GHARAT
 
 <!---
