@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently searching for  **New Oppourtunity where I can increase my Knowledge**
 
-- 💬 Ask me about **Python, Django, MySQL**
+- 💬 Ask me about **Python, Django, MySQL, FastAPI**
 
 - 📫 How to reach me **khushaldharat98@gmail.com**
 
